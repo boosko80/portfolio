@@ -33,5 +33,4 @@ const props = defineProps({
 });
 
 const { data } = toRefs(props);
-console.log(props);
 </script>

@@ -22,5 +22,4 @@ const props = defineProps({
 });
 
 const { path } = toRefs(props);
-console.log(props);
 </script>
